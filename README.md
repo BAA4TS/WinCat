@@ -35,6 +35,3 @@ Este programa en C++ emula el comportamiento del comando `cat` de Linux en el en
 - **Limpieza de Consola**: La consola se limpia al inicio de cada operación para mejorar la legibilidad.
 - **Manejo de Errores**: Se muestran mensajes de error si el archivo no puede ser leído o si se proporcionan argumentos incorrectos.
 - **Portabilidad**: Funciona específicamente en Windows debido al uso de la función `system("cls")` para limpiar la consola.
-
-Este programa es una herramienta útil para los usuarios de Windows que necesitan funcionalidades similares al comando `cat` de Linux para trabajar con archivos de texto de manera eficiente.
-```
