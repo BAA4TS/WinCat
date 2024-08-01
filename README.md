@@ -1,4 +1,3 @@
-```markdown
 # Comando `cat` para Windows
 
 Este programa en C++ emula el comportamiento del comando `cat` de Linux en el entorno de Windows. Permite a los usuarios visualizar el contenido de archivos de texto y obtener información básica sobre ellos.
